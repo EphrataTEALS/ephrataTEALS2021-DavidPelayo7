@@ -19,5 +19,6 @@ public class Problem1 {
             a = 2;
             System.out.println("Spongebob Squarepants! " + x);
         }
+        System.out.println(a);
     }
 }
